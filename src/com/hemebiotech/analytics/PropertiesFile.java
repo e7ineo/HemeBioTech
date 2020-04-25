@@ -25,6 +25,7 @@ public class PropertiesFile implements IPropertiesFile {
 	/**
 	 * {@inheritDoc}
 	 */
+	@Override
 	public String getFileNameIn() {
 		
 		try {
@@ -48,6 +49,7 @@ public class PropertiesFile implements IPropertiesFile {
 	/**
 	 * {@inheritDoc}
 	 */	
+	@Override
 	public String getFileNameOut() {
 		
 		try {
