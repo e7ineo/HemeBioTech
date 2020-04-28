@@ -1,4 +1,4 @@
-package com.hemebiotech.analytics;
+package com.hemebiotech.interfaces;
 
 /**
  * <p>Contains method to access the properties inside the file.</p>

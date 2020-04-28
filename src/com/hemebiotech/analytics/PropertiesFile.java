@@ -3,6 +3,8 @@ package com.hemebiotech.analytics;
 import java.io.*;
 import java.util.*;
 
+import com.hemebiotech.interfaces.IPropertiesFile;
+
 /**
  *<p>Contains method to access the properties inside the properties file.</p>
  */

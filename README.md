@@ -1,1 +1,3 @@
-# Project_DA_Java_EN_Come_to_the_Rescue_of_a_Java_Application
+Analytics counter permet de faire un decompte de differents symptomes et de les classer par ordre alphabetique.
+
+Le fichier symptoms.properties permet de parametrer les fichiers d'entrees et de sorites.

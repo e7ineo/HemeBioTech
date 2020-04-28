@@ -3,6 +3,8 @@ package com.hemebiotech.analytics;
 import java.io.*;
 import java.util.*;
 
+import com.hemebiotech.interfaces.ISymptomWriter;
+
 /**
  *Contains methods to write symptoms data to a file.
  */

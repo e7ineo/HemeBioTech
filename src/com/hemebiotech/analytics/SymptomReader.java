@@ -3,6 +3,8 @@ package com.hemebiotech.analytics;
 import java.io.*;
 import java.util.*;
 
+import com.hemebiotech.interfaces.ISymptomReader;
+
 /**
  *Contains methods to read data inside a file.
  */
